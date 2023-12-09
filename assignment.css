@@ -1,0 +1,88 @@
+.hero{
+
+    width: auto;
+}
+nav{
+    display: flex;
+justify-content: space-between;
+background-color: black;
+color: white;
+
+}
+h2{
+    padding-left: 10px;
+}
+ul li{
+    display: inline;
+    /* padding: 10px; */
+    color: white;
+ padding-right: 40px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.w{
+    text-align: center;
+ padding-top: 80px;
+ background-color: rgb(15, 37, 236);
+ height: 400px;
+ color: white;
+}
+button{
+    background-color: white;
+    color:  rgb(15, 37, 236) ;
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.feature{
+   margin-top: 10px;
+   display: flex;
+text-align: center;
+margin-left:200px;
+}
+.feature1{
+    background-color: darkgrey;
+    /* margin-top: 10px; */
+    padding: 5px;
+    width: 200px;
+    margin-bottom: 150px;
+    margin-left: 100px;
+}
+.feature2{
+
+        background-color: darkgrey;
+        margin-top: 200px;
+        padding: 5px;
+        width: 200px;
+        margin-left: 20px;
+      
+    }
+
+.feature3{
+
+        background-color: darkgrey; 
+        /* margin-top: 10px; */
+        padding: 5px;
+        width: 200px;
+        margin-bottom: 150px;
+        margin-right: 200px;
+        margin-left: 20px;
+
+    }
+.about{
+margin-top: 100px;
+    background-color: darkgray;
+    height: 200px;
+padding-top: 100px;
+}
+.a{
+text-align: center;
+/* padding-top: 50px; */
+}
+.contact{
+    text-align: center;
+    
+}
+
